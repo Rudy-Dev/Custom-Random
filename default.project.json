@@ -1,0 +1,15 @@
+{
+    "name": "Test",
+    "tree": {
+      "$className": "DataModel",
+  
+      "ServerScriptService": {
+        "$className": "ServerScriptService",
+    
+        "Lib": {
+          "$className": "Folder",
+          "$path": "src/ServerScriptService"
+        }
+      }
+    }
+  }
