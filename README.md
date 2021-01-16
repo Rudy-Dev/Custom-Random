@@ -7,7 +7,7 @@ It allows you to generate alot things in quick time
 
 # Functions
 
-** RangeInt(min, max)
+*RangeInt(min, max)*
 
 **Range(min, max)
 
