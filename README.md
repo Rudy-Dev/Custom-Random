@@ -7,13 +7,13 @@ It allows you to generate alot things in quick time
 
 # Functions
 
-**RangeInt(min, max)**
+**RangeInt(min, max)** Return int that is smaller than *max* but bigger than *min*
 
-**Range(min, max)**
+**Range(min, max)** Return number that is smaller than *max* but bigger than *min*
 
-**valueInt()**
+**valueInt()** Return 0 or 1
 
-**value()**
+**value()** Return number that is smaller than 1 but bigger than 0
 
 **InsideUnitCircle()**
 
