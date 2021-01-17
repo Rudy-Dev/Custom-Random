@@ -1,11 +1,11 @@
-# Random
+# Custom Random
 
 Hi there, I've made my first module that is based on Unity Random class.
 
 It allows you to generate alot things in a quick time
 
 
-# Functions
+# Methods
 
 **RangeInt(min, max)** - Return int that is smaller than *max* but bigger than *min*
 
