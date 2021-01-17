@@ -1,39 +1,34 @@
 # Custom Random
 
-Hi there, I've made my first module that is based on Unity Random class.
+Hi there, I made my first ever module that is based on the Unity Random class.
 
-It allows you to generate alot things in a quick time
-
+It allows you to generate a lot of things in a quick time
 
 # Methods
 
-**RangeInt(min, max)** - Return int that is smaller than *max* but bigger than *min*
+RangeInt(min, max) - Returns an int that is smaller than max but bigger than min
 
-**Range(min, max)** - Return number that is smaller than *max* but bigger than *min*
+Range(min, max) - Returns a number that is smaller than max but bigger than min
 
-**valueInt()** - Return 0 or 1
+valueInt() - Returns 0 or 1
 
-**value()** - Return number that is smaller than 1 but bigger than 0
+value() - Returns a number that is smaller than 1 but bigger than 0
 
-**InsideUnitCircle()** - Return point in a circle with a radius 1
+InsideUnitCircle() - Returns a point in a circle with a radius of 1
 
-**insideUnitSphere()** - Return point in a sphere with a radius 1
+insideUnitSphere() - Returns a point in a sphere with a radius of 1
 
-**RandomColor3** - Return random color3
+RandomColor3 - Returns a random Color3
 
-**RandomMaterial()** - Return random EnumItem.Value
+RandomMaterial() - Returns a random EnumItem.Value
 
-**InsideUnitCube()** - Return random point in a cube with size 1
+InsideUnitCube() - Returns a random point in a cube with a size of 1
 
-**OnUnitSphere()** - Return random point on a sphere with radius 1
+OnUnitSphere() - Returns a random point on a sphere with a radius of 1
 
 # Examples & Contributing
-Module is under MiT License
+The module is under MiT License
 
-Examples can be found in an Example folder
+Examples can be found in the Example folder
 
-If you want contribute, go ahead!
-
-
-
-
+If you want to contribute, go ahead!
