@@ -25,11 +25,8 @@ It allows you to generate alot things in quick time
 
 **InsideUnitCube()** -
 
-# Soon:
-
-**OnUnitCircle()** -
-
 **OnUnitSphere()** -
 
-**OnUnitCube()** -
+
+
 
