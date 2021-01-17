@@ -27,7 +27,7 @@ It allows you to generate alot things in a quick time
 
 **OnUnitSphere()** - Return random point on a sphere with radius 1
 
-#Examples & Contributing
+# Examples & Contributing
 Module is under MiT License
 
 Examples can be found in an Example folder
