@@ -29,6 +29,7 @@ OnUnitSphere() - Returns a random point on a sphere with a radius of 1
 # Examples & Contributing
 The module is under MiT License
 
-Examples can be found in the Example folder
+[Examples](https://github.com/Rudy-Dev/Custom-Random/tree/master/CustomRandom/Examples) can be found in the Example folder. 
+
 
 If you want to contribute, go ahead!
