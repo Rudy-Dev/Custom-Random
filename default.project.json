@@ -2,13 +2,16 @@
     "name": "Test",
     "tree": {
       "$className": "DataModel",
-  
       "ServerScriptService": {
         "$className": "ServerScriptService",
     
-        "Lib": {
+              "Examples":{
+        "$className": "Folder",
+        "$path": "CustomRandom/Examples"
+      },
+        "Module": {
           "$className": "Folder",
-          "$path": "src/ServerScriptService"
+          "$path": "CustomRandom/Src/Main"
         }
       }
     }
