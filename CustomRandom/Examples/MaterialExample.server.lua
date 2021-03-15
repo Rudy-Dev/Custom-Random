@@ -14,10 +14,3 @@ IS.InputBegan:Connect(function(key)
         part.Material = CustomRandom.RandomMaterial()
     end
 end)
- 
-
-    
-    
-
-
-
