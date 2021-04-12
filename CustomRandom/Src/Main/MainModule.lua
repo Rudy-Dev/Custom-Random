@@ -84,7 +84,7 @@ function CustomRandom.RandomColor3()
 	return result
 end
 
---Returns a random EnumItem.Value
+--Returns a random Material
 function CustomRandom.RandomMaterial()
 	local Materials = {}
 
@@ -99,9 +99,9 @@ end
 --Returns a random point in a cube with a size of 1
 function CustomRandom.InsideUnitCube()
 
-	local x = CustomRandom.Range(-1, 1);
-	local y = CustomRandom.Range(-1, 1);
-	local z = CustomRandom.Range(-1, 1);
+	local x = CustomRandom.Range(0, 1);
+	local y = CustomRandom.Range(0, 1);
+	local z = CustomRandom.Range(0, 1);
 
 	local result = Vector3.new(x, y, z)
 
