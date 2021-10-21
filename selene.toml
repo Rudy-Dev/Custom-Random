@@ -1,0 +1,8 @@
+std = "roblox"
+
+[rules]
+undefined_variable = "warn"
+unused_variable = "warn"
+shadowing = "deny"
+empty_if = "deny"
+incorrect_standard_library_use = "warn"
