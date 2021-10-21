@@ -1,7 +1,11 @@
 [package]
 name = "rudy/random"
-version = "0.1.0"
+
+version = "1.0.0"
+
+description = "Module for generating all types of data"
+
+license = "MIT"
+
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
-
-[dependencies]
