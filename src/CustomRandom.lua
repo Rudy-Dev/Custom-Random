@@ -24,7 +24,7 @@ function CustomRandom.RandomColor3(): Color3
 end
 
 --Returns a random Enum item, WARNING: doesn't work with types at all, you may want to cast the type of return
-function CustomRandom.RandomEnum<T>(enumType: T): T
+function CustomRandom.RandomEnum(enumType: Enum): Enum
 	local enum = enumType:GetEnumItems()
 	return enum[Rand:NextInteger(1, #enum)]
 end
