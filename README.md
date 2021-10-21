@@ -16,4 +16,4 @@ InsideUnitCube() -> Vector3; Returns a random point in a cube with a size of 1
 OnUnitSphere() -> Vector3; Returns a random point on a sphere with a radius of 1
 
 ## Examples
-[Examples](https://github.com/Rudy-Dev/Custom-Random/tree/master/CustomRandom/examples) may be find in examples folder
+[Examples](https://github.com/Rudy-Dev/Custom-Random/tree/master/examples) may be find in examples folder
