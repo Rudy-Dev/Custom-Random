@@ -4,9 +4,9 @@ local Rand = Random.new()
 
 --Returns a point in a circle with a radius of 1
 function CustomRandom.InsideUnitCircle(): Vector2
-	local a = Rand:NextNumber(0, 2 * math.pi)
+	local x = Rand:NextNumber(0, 2 * math.pi)
 
-	return Vector2.new(math.sqrt(Rand:NextNumber()) * math.cos(a), math.sqrt(Rand:NextNumber()) * math.sin(a))
+	return Vector2.new(math.sqrt(Rand:NextNumber()) * math.cos(x), math.sqrt(Rand:NextNumber()) * math.sin(x))
 end
 
 --Returns a point in a sphere with a radius of 1
