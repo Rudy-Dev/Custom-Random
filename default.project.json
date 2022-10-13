@@ -1,14 +1,6 @@
 {
   "name": "Custom Random",
   "tree": {
-    "$className": "DataModel",
-    "ServerScriptService": {
-      "$className": "ServerScriptService",
-      "$path": "examples"
-    },
-    "ReplicatedStorage": {
-      "$className": "ReplicatedStorage",
       "$path": "src"
-    }
   }
 }
